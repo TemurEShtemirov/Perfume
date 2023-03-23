@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200;1,300;1,400&family=Raleway:ital,wght@0,200;0,300;0,400;0,500;1,200;1,300;1,400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.pFooter {
+    position: relative;
+    width: 396.5px;
+    height: 73px;
+    left: 0px;
+    top: 58.4px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color: #565656;
+    margin-bottom: 200px;
+    margin-left: 20px;
+}
+
+.footer {
+    background: rgba(239, 239, 239, 1);
+    width: 100%;
+    height: 450px;
+    margin-top: 100px;
+}
+
+.aboutUs {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #565656;
+}
+
+.h11footer {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #111111;
+}
+
+.paymentFooter {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #565656;
+}
+
+.ContactUs {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #565656;
+}
+
+.Stores {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #565656;
+}
+
+.pCol2Footer {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #565656;
+}
+
+.p1Col2Footer {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #565656;
+}
+
+.p2Col2Footer {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #565656;
+}
+
+.p3Col2Footer {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #565656;
+}
+.h1Col2Footer {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #111111;
+}
+.pCol3Footer{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color: #565656;
+}
+.h1Col3Footer{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #111111;
+}
+.pdarkPart{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    margin-top: 50px;
+}
+.CreditCard{
+    margin-left: 950px;
+}

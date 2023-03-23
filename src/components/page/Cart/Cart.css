@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.btnSubmit{
+    margin-left: 700px;
+    margin-bottom: 50px;
+}
+.li{
+    margin-top: 10px;
+}
